@@ -1,1 +1,6 @@
-#  add file's  ignore pull - push 
+#  add file's  ignore pull - push .vs/ 
+.vs/ 
+*.user 
+*.suo 
+bin/ 
+obj/ 
